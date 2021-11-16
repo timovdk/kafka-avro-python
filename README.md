@@ -3,7 +3,7 @@
 This repo shows the avro capabilities of kafka in Python.
 
 ## Running
-```
+```bash
 docker compose up -d
 ```
 Wait for Kafka to start (5-10 sec)
