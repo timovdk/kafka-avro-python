@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "TestMessage",
+  "namespace": "nl.tno.test.key",
+  "doc": "Sample schema",
+  "fields": [
+    {
+      "name": "sender",
+      "type": "string"
+    }
+  ]
+}
